@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Reprositorio de Prueba del Pre curso de Henry
+Esto es una prueba de como crear un repositorio d github y clonarlo a mi escritorio de mi pc personal.
+
